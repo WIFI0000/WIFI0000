@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/WIFI0000/WIFI0000/refs/heads/output/github-contribution-grid-snake-light.svg)
 
-![](https://komarev.com/ghpvc/?username=WIFI0000&color=9FC2CC&style=for-the-badge&label=Thanks-For-Watching)
+![](https://komarev.com/ghpvc/?username=WIFI0000&color=9FC2CC&style=plastic&label=Thanks-For-Watching)
